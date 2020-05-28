@@ -8,7 +8,7 @@ import (
 	"log"
 	"net"
 
-	"github.com/Binject/binjection/bj"
+	"github.com/moloch--/binjection/bj"
 	npipe "gopkg.in/natefinch/npipe.v2"
 )
 

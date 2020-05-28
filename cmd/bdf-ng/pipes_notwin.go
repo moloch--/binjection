@@ -10,7 +10,7 @@ import (
 	"os"
 	"syscall"
 
-	"github.com/Binject/binjection/bj"
+	"github.com/moloch--/binjection/bj"
 )
 
 func MakePipe(pipename string) string {

@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Binject/binjection/bj"
+	"github.com/moloch--/binjection/bj"
 )
 
 func CompareFiles(file1, file2 string) bool {

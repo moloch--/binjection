@@ -4,8 +4,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/Binject/binjection/bj"
 	"github.com/akamensky/argparse"
+	"github.com/moloch--/binjection/bj"
 )
 
 func main() {

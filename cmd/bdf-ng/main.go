@@ -16,9 +16,9 @@ import (
 	"github.com/akamensky/argparse"
 	"github.com/mholt/archiver"
 
-	"github.com/Binject/binjection/bj"
 	"github.com/Binject/shellcode"
 	"github.com/h2non/filetype"
+	"github.com/moloch--/binjection/bj"
 )
 
 func main() {

@@ -4,10 +4,10 @@ import (
 	"flag"
 	"log"
 
-	"github.com/Binject/binjection/bj"
 	"github.com/Binject/debug/elf"
 	"github.com/Binject/debug/macho"
 	"github.com/Binject/debug/pe"
+	"github.com/moloch--/binjection/bj"
 )
 
 func main() {

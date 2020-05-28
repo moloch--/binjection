@@ -4,7 +4,7 @@ import (
 	"flag"
 	"io/ioutil"
 
-	"github.com/Binject/binjection/bj"
+	"github.com/moloch--/binjection/bj"
 )
 
 func main() {
